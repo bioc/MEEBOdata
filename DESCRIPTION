@@ -1,0 +1,12 @@
+Package: MEEBOdata
+Type: Package
+Title: MEEBO set and MEEBO controls.
+Version: 1.0
+Date: 2006-08-31
+Author: Agnes Paquet
+Maintainer: Agnes Paquet <apaquet@medsfgh.ucsf.edu>
+Description: R objects describing the MEEBO set.
+biocViews: ExperimentData
+License:  LGPL
+URL: http://alizadehlab.stanford.edu/
+     http://arrays.ucsf.edu/
